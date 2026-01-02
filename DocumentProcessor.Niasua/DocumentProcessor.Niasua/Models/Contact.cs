@@ -2,7 +2,7 @@
 
 namespace DocumentProcessor.Niasua.Models;
 
-internal class Contact
+public class Contact
 {
     [Ignore]
     public int Id { get; set; }

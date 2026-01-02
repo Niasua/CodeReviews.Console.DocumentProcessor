@@ -3,7 +3,7 @@ using DocumentProcessor.Niasua.Models;
 
 namespace DocumentProcessor.Niasua.Parser;
 
-internal class ExcelContactParser : IFileParser<Contact>
+public class ExcelContactParser : IFileParser<Contact>
 {
     public List<Contact> Parse(string filePath)
     {

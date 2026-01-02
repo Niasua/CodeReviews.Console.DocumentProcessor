@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace DocumentProcessor.Niasua.Parser;
 
-internal class CsvContactParser : IFileParser<Contact>
+public class CsvContactParser : IFileParser<Contact>
 {
     public List<Contact> Parse(string filePath)
     {

@@ -2,7 +2,7 @@
 
 namespace DocumentProcessor.Niasua.Parser;
 
-internal class FileParserFactory
+public class FileParserFactory
 {
     public static IFileParser<Contact> GetParser(string filePath)
     {
