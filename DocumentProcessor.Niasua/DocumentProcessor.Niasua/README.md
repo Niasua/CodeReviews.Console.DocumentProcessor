@@ -20,7 +20,7 @@ This is a Console Application built with **.NET 8** that automates the process o
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Niasua/CodeReviews.Console.DocumentProcessor](https://github.com/Niasua/CodeReviews.Console.DocumentProcessor)
+    git clone https://github.com/Niasua/CodeReviews.Console.DocumentProcessor
     cd DocumentProcessor
     ```
 
